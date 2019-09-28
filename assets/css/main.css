@@ -2579,6 +2579,13 @@ input, select, textarea {
 			margin: 0;
 		}
 
+	.work-item-no-bottom {
+		margin: 0 0 0 0;
+	}
+		.work-item-no-bottom .image {
+			margin: 0 0 0 0;
+		}
+
 /* Header */
 
 	#header {
